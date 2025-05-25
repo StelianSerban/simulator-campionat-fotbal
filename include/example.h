@@ -354,7 +354,7 @@ public:
     {
         std::cout << "Goluri " << echipa1->getNume() << ": ";
         std::cin >> goluri1;
-        std::cout << "Goluri2 " << echipa2->getNume() << ": ";
+        std::cout << "Goluri " << echipa2->getNume() << ": ";
         std::cin >> goluri2;
         cin.ignore();
         std::cout << "Introduceți numele marcatorilor pentru " << echipa1->getNume() << ":\n";
@@ -452,6 +452,14 @@ private:
     std::map<std::string, StatisticiEchipa> clasament;
     
 public:
+
+    Campionat()
+    {
+        echipe.clear();
+        meciuri.clear();
+        clasament.clear();
+    }
+
     void adaugaEchipa(std::shared_ptr<Echipa> e) 
     {
         echipe.push_back(e);

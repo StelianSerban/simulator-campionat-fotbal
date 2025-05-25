@@ -20,6 +20,7 @@ int main() {
         cout << "7. Afiseaza clasamentul\n";
         cout << "8. Afiseaza meciurile\n";
         cout << "9: Afiseaza golgheteri\n";
+        cout << "10: Resetare\n";
         cout << "0. Iesire\n";
         cout << "Optiune: ";
         cin >> optiune;
@@ -35,18 +36,20 @@ int main() {
 
         if(optiune == 2)
         {
-            string numeEchipa, numeJucator;
+            string numeEchipa, numeJucator, pozitie;
             int varsta, numar;
             cout << "Nume echipa: ";
             getline(cin, numeEchipa);
             cout << "Nume jucator: ";
             getline(cin, numeJucator);
+            cout << "Pozitie: ";
+            getline(cin, pozitie);
             cout << "Varsta: ";
             cin >> varsta;
             cout << "Numar: ";
             cin >> numar;
             cin.ignore();
-            shared_ptr<Jucator> j = make_shared<Jucator>(numeJucator, varsta,"mijlocas", numar);
+            shared_ptr<Jucator> j = make_shared<Jucator>(numeJucator, varsta, pozitie, numar);
             try
             {
                 for (auto echipa : c.getEchipe())
@@ -135,6 +138,12 @@ int main() {
 
         if(optiune == 9)
             c.afiseazaGolgheteri();
+        if(optiune == 10)
+        {
+            c = Campionat();
+            meciuriGenerate = false;
+            std::cout << "Campionatul a fost resetat cu succes.\n";
+        }
 
 
     }while(optiune != 0);

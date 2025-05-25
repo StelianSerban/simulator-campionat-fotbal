@@ -1,0 +1,62 @@
+1
+FCSB
+1
+CFR Cluj
+1
+U Cluj
+1
+CSU Craiova
+1
+Rapid
+1
+Dinamo
+2
+FCSB
+Tarnovanu
+GK
+25
+32
+2
+FCSB
+Dawa
+CB
+29
+5
+2
+FCSB
+Olaru
+CM
+27
+27
+2
+FCSB
+Birligea
+ST
+25
+9
+2
+CFR Cluj
+Hindrich
+GK
+22
+89
+2
+CFR Cluj
+Bolgado
+CB
+26
+4
+2
+CFR Cluj
+Deac
+CM
+39
+10
+2
+CFR Cluj
+Munteanu
+22
+9
+2
+U Cluj
+
