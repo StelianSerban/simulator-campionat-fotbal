@@ -68,7 +68,7 @@ int main() {
 
         if(optiune == 3)
         {
-            // persoana formatie stil aniExperienta
+            
 
             string numeEchipa, numeAntrenor, formatie, stil;
             int varsta, aniExperienta;

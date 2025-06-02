@@ -17,6 +17,7 @@ Instrucțiuni pentru terminal:
 1. Pasul de configurare
 ```sh
 cmake -S . -B build -DCMAKE_BUILD_TYPE=Debug
+cmake --build build
 # sau ./scripts/cmake.sh configure
 ```
 

@@ -5,7 +5,7 @@ CFR Cluj
 1
 U Cluj
 1
-CSU Craiova
+Craiova
 1
 Rapid
 1
@@ -55,8 +55,156 @@ CM
 2
 CFR Cluj
 Munteanu
+ST
 22
 9
 2
 U Cluj
+Lefter
+GK
+20
+1
+2
+U Cluj
+Chipciu
+RB
+36
+27
+2
+U Cluj
+Nistor
+CM
+37
+10
+2
+U Cluj
+Blanuta
+ST
+23
+77
+2
+Dinamo
+Rosca
+GK
+20
+1
+2
+Dinamo
+Homawoo
+CB
+27
+5
+2
+Dinamo
+Cirjan
+CM
+23
+10
+2
+Dinamo
+Politic
+ST
+21
+17
+2
+Rapid
+Aioani
+GK
+24
+1
+2
+Rapid
+Sapunaru
+CB
+41
+22
+2
+Rapid
+Christensen
+CM
+25
+11
+2
+Rapid
+Koljic
+ST
+29
+7
+2
+Craiova
+Popescu
+GK
+23
+1
+2
+Craiova
+Bancu
+LB
+30
+3
+2
+Craiova
+Screciu
+CM
+24
+8
+2
+Craiova
+Mitrita
+LW
+30
+7
+3
+FCSB
+Elias Charalambous
+43
+4-3-3
+ofensiv
+10
+3
+Dinamo
+Zeljko Kopic
+51
+4-2-3-1
+echilibrat
+12
+3
+Rapid
+Marius Sumudica
+59
+4-4-2
+ofensiv
+15
+3
+CFR Cluj
+Dan Petrescu
+56
+4-3-3
+defensiv
+20
+3
+U Cluj
+Sabau
+55
+4-2-3-1
+echilibrat
+13
+3
+Craiova
+Mirel Radoi
+68
+4-3-3
+defensiv
+18
+4
+5
+6
+1
+8
+7
+9
+0
+
+
+
 
